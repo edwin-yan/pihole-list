@@ -1,0 +1,50 @@
+# ==========================================================
+# Web Games Blocklist for Pi-hole
+# Format: Plain domain list (Pi-hole Gravity compatible)
+# ==========================================================
+
+1v1.lol
+abcya.com
+addictinggames.com
+agar.io
+armorgames.com
+baamboozle.com
+blooket.com
+coolmathgames.com
+crazygames.com
+diep.io
+ev.io
+friv.com
+gamedistribution.com
+gamemonetize.com
+gamepix.com
+gimkit.com
+hoodamath.com
+html5games.com
+itch.io
+iwoodpecker.com
+kahoot.com
+kahoot.it
+kizi.com
+kongregate.com
+krunker.io
+lagged.com
+luna.amazon.com
+miniclip.com
+mouse-practice.com
+neal.fun
+newgrounds.com
+nitrotype.com
+now.gg
+paper-io.com
+play.geforcenow.com
+poki.com
+prodigygame.com
+quizizz.com
+shellshock.io
+silvergames.com
+skribbl.io
+slither.io
+topgames.gg
+wayground.com
+y8.com
